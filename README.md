@@ -53,3 +53,15 @@ would be like this:
 
 
 NOTE: Considering that you are using falloutnv (Fallout New Vegas) update the references for each game you want
+
+
+If you want to use the links from the vortex page to work with the new vortex installation dont forget to update the:
+/home/deck/.config/mimeapps.list 
+
+[Added Associations]
+x-scheme-handler/nxm=net.lutris.vortex-mod-manager-1.desktop
+x-scheme-handler/nxm-protocol=net.lutris.vortex-mod-manager-1.desktop
+
+[Default Applications]
+x-scheme-handler/nxm=net.lutris.vortex-mod-manager-1.desktop
+x-scheme-handler/nxm-protocol=net.lutris.vortex-mod-manager-1.desktop
