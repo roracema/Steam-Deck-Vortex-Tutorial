@@ -48,4 +48,8 @@ Then you need to create a sys link from the new folder that you create to the fo
 would be like this:
 /home/deck/Games/vortex-mod-manager/drive_c/users/steamuser/AppData/Local/falloutnv/mods
 
+21. As last step you should change the Mod Staging folder under -> Settings -> Mods (tab) -> set the path to the mods staging as the:
+/home/deck/Games/vortex-mod-manager/drive_c/users/steamuser/AppData/Local/{GAME}/mods
+
+
 NOTE: Considering that you are using falloutnv (Fallout New Vegas) update the references for each game you want
